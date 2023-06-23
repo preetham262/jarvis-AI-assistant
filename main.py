@@ -33,11 +33,11 @@ GREETINGS_RES = ["always there for you sir", "i am ready sir",
                  "your wish my command", "how can i help you sir?", "i am online and ready sir"]
 
 EMAIL_DIC = {
-    'myself': 'atharvaaingle@gmail.com',
-    'my official email': 'atharvaaingle@gmail.com',
-    'my second email': 'atharvaaingle@gmail.com',
-    'my official mail': 'atharvaaingle@gmail.com',
-    'my second mail': 'atharvaaingle@gmail.com'
+    'myself': 'rajnesh,murugula@gmail.com',
+    'my official email': 'rajnesh,murugula@gmail.com',
+    'my second email': 'rajnesh,murugula@gmail.com',
+    'my official mail': 'rajnesh,murugula@gmail.com',
+    'my second mail': 'rajnesh,murugula@gmail.com'
 }
 
 CALENDAR_STRS = ["what do i have", "do i have plans", "am i busy"]
