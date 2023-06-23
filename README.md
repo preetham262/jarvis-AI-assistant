@@ -77,7 +77,4 @@ To run this program you will require a bunch of API keys. Register your API key 
   - Add the voice commands through which you want to invoke the function
 
 
-## Future Improvements
-- Generalized conversations can be made possible by incorporating Natural Language Processing
-- GUI can be made more nicer to look at and functional
-- More functionalities can be added
+
