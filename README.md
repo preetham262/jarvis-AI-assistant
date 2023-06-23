@@ -70,7 +70,7 @@ To run this program you will require a bunch of API keys. Register your API key 
     ├── main.py             # main driver program of Jarvis
     ├── requirements.txt    # all dependencies of the program
 
-- The code structure if pretty simple. The code is completely modularized and is highly customizable
+- The code structure is pretty simple. The code is completely modularized and is highly customizable
 - To add a new feature:
   -  Make a new file in features folder, write the feature's function you want to include
   - Add the function's definition to __init__.py
